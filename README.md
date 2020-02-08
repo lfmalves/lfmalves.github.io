@@ -1,1 +1,0 @@
-# Based on Beautiful Jekyll
